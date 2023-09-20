@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784401042064",
+    "project_id": "sampleloginsignup-cb950",
+    "storage_bucket": "sampleloginsignup-cb950.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784401042064:android:829e69841f0b5f484e6615",
+        "android_client_info": {
+          "package_name": "com.example.loginsignup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsBFQTOqdupqzfuqUE8k2qenuC-qQ0eRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
